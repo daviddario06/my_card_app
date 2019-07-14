@@ -1,0 +1,58 @@
+.bodyResult{
+    width: 70%;
+    height: 100%;
+    text-align: center;   
+    
+}
+
+.object{
+    display: inline-block;
+    height: 40%;
+    width: 40%;
+    background: #75abf8;
+    margin: 2%; 
+    border-radius: 5px;
+    position: relative;
+    vertical-align: top;
+}
+
+h2{
+    display: block;
+    margin-block-start: 40px;
+    color: #0a0046;
+}
+
+.editButton{
+    width: 200px;
+    height: 40px;
+    background: #0f0064;
+    color: white;
+    border-style: none;
+    display: block;
+    position: absolute;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0px;
+    right: 0px;
+    bottom: 20px;
+   
+   
+}
+
+.editButton:hover{
+    background: #21117a;
+}
+
+.alt1{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-block-start: 20px;
+}
+
+.alt2{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-block-start: 20px;
+}

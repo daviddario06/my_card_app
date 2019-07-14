@@ -1,0 +1,67 @@
+.dataForm{
+    display: inline-block;
+    background: #13232f;
+    margin-left: 70%;
+    width: 30%;
+    text-align: center;
+    height: 100%;
+    position: fixed;
+    padding-block-start: 20px;
+}
+
+h1{
+    display: block;
+    color: white;
+} 
+
+input{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-block-end: 20px;
+    margin-block-start: 20px;
+    
+}
+.camp1{
+  
+    background: #13232f;
+    border-color: #058E52;
+    color: white;
+    width: 200px;
+    border-style: solid;
+}
+
+
+.camp2{
+    background: #13232f;
+    border-color: #058E52;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+}
+
+.saveButton{
+    width: 200px;
+    height: 40px;
+    background: #058E52;
+    color: white;
+    border-style: none;
+    
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 20px; 
+}
+
+.savebutton:hover{
+    background: #37a173;
+} 
+
+.formInput{
+    padding-block-end: 20px;
+    position: relative;
+    height: 310px;
+}
